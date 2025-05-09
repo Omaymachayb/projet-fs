@@ -1,2 +1,2 @@
 # projet-fs
-platforme de gestion d'un reseau
+mini projet devops Mise en place d’un pipeline CI/CD complet avec Jenkins, GitHub, SonarQube et Docker sur AWS
